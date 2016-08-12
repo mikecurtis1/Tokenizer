@@ -1,5 +1,5 @@
 # Tokenizer
-A PHP application to tokenize a text string using a Google advanced search style syntax.
+A PHP application to tokenize plain text using a Google advanced search style syntax.
 
 # Features
 * +, -, | preceeding text indicate boolean operators
