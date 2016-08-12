@@ -7,7 +7,8 @@ class Token
     private $text;
     private $phrase;
 
-    public function __construct($prefix='', $index='', $text='', $phrase=false){
+    public function __construct($prefix='', $index='', $text='', $phrase=false)
+    {
         $this->prefix = $this->setPrefix($prefix);
         $this->index = $this->setPrefix($index);
         $this->text = $this->setPrefix($text);
