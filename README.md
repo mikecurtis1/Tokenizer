@@ -8,7 +8,8 @@ A PHP application to tokenize plain text using a Google advanced search style sy
 * Backslash is the escape character
 
 # Example
-* su:love +ti:life -su:"one + one"
+`su:love +ti:life -su:"one + one"`
+
 ```
 array(3) {
   [0]=>
