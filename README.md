@@ -7,7 +7,7 @@ A PHP application to tokenize a text string using a Google advanced search style
 * Quotation marks can be used to indicate phrases
 * Backslash is the escape character
 
-# Examples
+# Example
 * su:love +ti:life -su:"one + one"
 ```
 array(3) {
