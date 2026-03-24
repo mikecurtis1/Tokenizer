@@ -70,6 +70,7 @@ array(3) {
     phrase: true
   }
 }
+```
 
 ## Token Structure
 
